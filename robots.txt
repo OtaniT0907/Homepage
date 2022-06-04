@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://otanit0907.github.io/Homepage/sitemap.xml
